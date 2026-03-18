@@ -65,12 +65,13 @@ A **Flask-based web application** is developed to allow users to upload network 
 
 Intrusion-Detection-System/
  - Intrusiondetection_project/
-      - run4.py                         # Main Flask application
-      - autoencoder.h5                 # Trained Autoencoder model
-      - intrusion_detection_LSTM_model_6.h5   # Trained LSTM model
-      - preprocessor.joblib            # Preprocessing pipeline
-      - KDDCUP99_Xtest.csv             # Sample dataset
-      - Anomaly_output.csv             # Generated anomaly results
+ - run4.py                         # Main Flask application
+ - autoencoder.h5                 # Trained Autoencoder model
+ - intrusion_detection_LSTM_model_6.h5   # Trained LSTM model
+ - preprocessor.joblib            # Preprocessing pipeline
+ - KDDCUP99_Xtest.csv             # Sample dataset
+ - Anomaly_output.csv             # Generated anomaly results
+ - README.md
       - assets/
           - count_plot.png             # Anomaly detection visualisation
           - count_plot_2.png           # Attack classification visualisation
