@@ -62,6 +62,7 @@ A **Flask-based web application** is developed to allow users to upload network 
 - HTML, CSS
 
 ## Project Structure
+
 Intrusion-Detection-System/
 │
 ├── Intrusiondetection_project/
