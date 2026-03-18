@@ -1,0 +1,23 @@
+/* styles.css */
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  border-style: solid;
+  text-align: center;
+  padding: 10px;
+}
+th, td {
+  background-color: #96D4D4;
+  text-align: center;
+
+}
+.count-plot {
+  width: 650px; /* Set the desired width */
+  height: 550px; 
+  display: block;
+  margin: 0 auto;
+  margin-left: 90px;
+}
+
+
