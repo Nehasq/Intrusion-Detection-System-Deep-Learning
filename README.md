@@ -64,7 +64,7 @@ A **Flask-based web application** is developed to allow users to upload network 
 ## Project Structure
 
 Intrusion-Detection-System/
- -> Intrusiondetection_project/
+ - Intrusiondetection_project/
       - run4.py                         # Main Flask application
       - autoencoder.h5                 # Trained Autoencoder model
       - intrusion_detection_LSTM_model_6.h5   # Trained LSTM model
