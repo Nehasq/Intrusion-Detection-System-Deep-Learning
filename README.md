@@ -11,8 +11,6 @@ The solution combines:
 
 A **Flask-based web application** is developed to allow users to upload network traffic data and visualise results interactively.
 
----
-
 ## Features
 
 - Detects **anomalies (normal vs attack traffic)**
